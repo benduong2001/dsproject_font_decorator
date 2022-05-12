@@ -1,4 +1,4 @@
-# DSC190 Project - Eigen-Fonts
+# Spring 2022 DSC190 Project - Eigen-Fonts
 
 * This DSC190 project will explore the UC Irvine Character Font Image Dataset
 * Source: https://archive.ics.uci.edu/ml/datasets/Character+Font+Images
