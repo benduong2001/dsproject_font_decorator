@@ -6,4 +6,4 @@
   * K-means clustering, 
   * Principal Component Analysis and other linear algebra topics such as cosine similarity,
   * Spectral embedding, with a visit of Laplacian Eigenmaps,
-* Convolutional Neural Networks to classify images of letters on font group
+* Convolutional Neural Network to classify images of letters on font group
