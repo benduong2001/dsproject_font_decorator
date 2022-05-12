@@ -7,3 +7,8 @@
   * Principal Component Analysis and other linear algebra topics such as cosine similarity,
   * Spectral embedding, with a visit of Laplacian Eigenmaps,
 * Eventual Goal (Extra Credit): Convolutional Neural Network to classify unlabeled images of letters on font group
+
+
+* Files:
+ * dsproject_font_decorator.ipynb - rough draft EDA Jupyter Notebook
+ * eigenfonts.ipynb - final draft
