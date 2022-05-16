@@ -1,6 +1,6 @@
-# Spring 2022 DSC190 Project - Computer Vision with Font Types
+# Spring 2022 Class Project - Computer Vision with Font Types
 
-* This DSC190 project will explore the UC Irvine Character Font Image Dataset
+* This project will explore the UC Irvine Character Font Image Dataset
 * Source: https://archive.ics.uci.edu/ml/datasets/Character+Font+Images
 * This data science project on computer vision will cover font type categorization
 * Unsupervised Learning techniques like Spectral Embedding and K-means Clustering
