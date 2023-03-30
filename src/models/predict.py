@@ -62,8 +62,12 @@ class CNN_Model_Prediction:
         if predictions == []:
             result = [0,0,0]
         else:
-            predictions_avg = (np.nan_to_num(np.array(predictions)).mean(axis=0))
-            result = list(predictions_avg)
+            imputed_predictions = (np.nan_to_num(np.array(predictions)))
+            
+            #predictions_avg = (np.nan_to_num(np.array(predictions)).mean(axis=0))
+            #result = list(predictions_avg)
+            imputed_predictions_column_wise_sums = imputed_predictions.sum(axis=0)
+            result = imputed_predictions_column_wise_sums / np.sum(imputed_predictions_column_wise_sums)
 
         return result
     def predict(self, image):
